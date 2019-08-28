@@ -20,7 +20,7 @@ I completed my M.Tech from [Jawaharlal Nehru University](https://www.jnu.ac.in/s
 Research Interests
 ======
 I like exploring different system-specific problems.
-<--#am a researcher with broad interests in Cloud Computing, Internet of Things (IoT) and Machine Learning.-->
+<!--#am a researcher with broad interests in Cloud Computing, Internet of Things (IoT) and Machine Learning.--!>
 
 In particular I am interested in virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, networks and anything else that catches my fancy.
 
