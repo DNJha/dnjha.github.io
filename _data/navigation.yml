@@ -16,7 +16,7 @@ main:
   # url: /year-archive/ 
     
   - title: "Professional Activity" #changed the project page
-    url: /activity1/
+    url: /activity/
     
   - title: "Scholastic Achievements"    #chnaged from cv
     url: /achievements/
