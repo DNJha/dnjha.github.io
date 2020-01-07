@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards & Honors"
-permalink: /achievemnets/
+permalink: /achievements/
 author_profile: true
 <!--redirect_from:
   - /resume-->
