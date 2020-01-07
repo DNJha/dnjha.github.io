@@ -16,7 +16,6 @@ author_profile: true
 * Computing (Springer), 
 * Supercomputing (Springer),
 * IET Cyber-Physical Systems: Theory and Applications
----
 
 Technical Program Committee
 ======
