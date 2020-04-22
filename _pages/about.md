@@ -1,5 +1,3 @@
-(Looking for a Post-doctoral position to start from September 2020)
-
 ---
 permalink: /
 title: "Biography"
