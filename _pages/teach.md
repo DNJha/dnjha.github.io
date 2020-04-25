@@ -10,6 +10,9 @@ Undergraduate/Postgraduate course (School of Computing, Newcastle University)
 * [Cloud Computing (CSC8110)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8110) (2017-18, 2018-19, 2019-20)
 Teaching Assistant, Head Demonstrator and Marker
 
+* [Internet of Things (CSC8112)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8112) (2019-20)
+Teaching Assistant, Demonstrator and Marker
+
 * [Computer Networks (CSC2026)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC2026) (2016-17, 2017-18)
 Demonstrator and Marker
 

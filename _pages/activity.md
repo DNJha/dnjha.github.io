@@ -5,7 +5,8 @@ permalink: /activity/
 author_profile: true
 ---
 
-* IEEE Transactions on Services Computing, 
+* IEEE Transactions on Services Computing,
+* ACM Computing Surveys, 
 * IEEE Transactions on Industrial Informatics, 
 * IEEE Internet of Things, 
 * IEEE Communications Magazine, 
@@ -21,7 +22,7 @@ Technical Program Committee
 ======
 
 * IEEE International Conference on Fog and Edge Computing (ICFEC) 2020
-* International Conference on Mobile Computing and Ubiquitous Networking (ICMU) 2018,
+* International Conference on Mobile Computing and Ubiquitous Networking (ICMU) 2018, 2020
 
 Publicity Chair
 ======
