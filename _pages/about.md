@@ -28,9 +28,6 @@ Research Interests
 * In particular I am interested in virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, networks and anything else that catches my fancy.
 
 
-Looking for Post Doctoral Opportunity.
-======
-
 <!--Recent News
 ======
 * One paper accepted to IEEE Transactions on Industrial Informatics.-->
