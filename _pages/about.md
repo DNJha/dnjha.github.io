@@ -28,7 +28,7 @@ Research Interests
 * In particular I am interested in virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, networks and anything else that catches my fancy.
 
 
-Looking for Post-doctoral/ Research Scientist position to start from Fall 2020.
+Searching for a Post-doctoral/ Research Scientist position to start from Fall 2020.
 ======
 
 <!--Recent News
