@@ -12,7 +12,9 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>-->
 
-* I am now pursuing Ph.D. from Newcastle University under the supervision of Prof. [Rajiv Ranjan](https://rajivranjan.net/), Prof. [Paul Watson](https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background)  from [Newcastle University, UK](https://www.ncl.ac.uk/computing/) and Dr. [Xiaoli Li](https://www.ntu.edu.sg/home/xlli/) from [I2R A* STAR, Singapore](https://www.a-star.edu.sg/i2r). My research focuses on proposing innovative algorithms for run-time deployment of microservices in IoT environments.
+* I am now a postdoctoral reserach associate under the supervision of Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/), e-Research Institute, University of Oxford and Mr. [David Blundell](https://www.linkedin.com/in/david-blundell-2b07b915/?originalSubdomain=uk), 100 Percent IT.
+
+* I submitted my Ph.D. thesis under the supervision of Prof. [Rajiv Ranjan](https://rajivranjan.net/), Prof. [Paul Watson](https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background)  from [Newcastle University, UK](https://www.ncl.ac.uk/computing/) and Dr. [Xiaoli Li](https://www.ntu.edu.sg/home/xlli/) from [I2R A* STAR, Singapore](https://www.a-star.edu.sg/i2r). My research focuses on innovative approach for the deployment of microservices in cloud-IoT environments.
 
 * I am broadly interested in Cloud Computing, Internet of Things and Machine Learning. My current research focuses on designing a simulator for Edge Computing environment. I am also working on developing an Orchestrator for automatic benchmarking of web-application in containerized environment.
 
