@@ -84,7 +84,7 @@ author:
   avatar           : "Devki_Nandan_Jha.jpg"
   bio              : "Postdoctoral Research Associate, University of Oxford"
   location         : "Oxford, UK"
-  employer         : [University of Oxford](https://www.ox.ac.uk/)
+  employer         : #[University of Oxford](https://www.ox.ac.uk/)
   pubmed           : #"https://eng.ox.ac.uk/people/devki-nandan-jha/"
   googlescholar    : "https://scholar.google.com/citations?user=PbpGthwAAAAJ&hl=en&oi=ao"
   email            : "devki.jha@eng.ox.ac.uk"
