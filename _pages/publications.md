@@ -68,7 +68,7 @@ Book Chapters
 Newsletters
 ======
 
-1. Umit Demirbaga, <b>Devki Nandan Jha<b>, et al., "A Batch and Real-time Data Analytics Framework for Healthcare Applications", <i>IEEE Technical Committee on Cybernetics for Cyber-Physical Systems</i>, Volume 3, Issue 2, October 02, 2018. 
+1. Umit Demirbaga, <b>Devki Nandan Jha</b>, et al., "A Batch and Real-time Data Analytics Framework for Healthcare Applications", <i>IEEE Technical Committee on Cybernetics for Cyber-Physical Systems</i>, Volume 3, Issue 2, October 02, 2018. 
 
 2. <b>Devki Nandan Jha</b>, Yinhao Li, et al., "Challenges in Automatic Deployment and Configuration Management in Cyber-Physical System", <i>IEEE Technical Committee on Cybernetics for Cyber-Physical Systems</i>, Volume 3, Issue 1, February 02, 2018. 
 
