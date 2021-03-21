@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Devki Nandan Jha"
 title_separator          : "-"
 name                     : &name "Devki Nandan Jha"
-description              : &description "Postdoctoral Research Associate @OERC, University of Oxford"
+description              : &description "Postdoctoral Research Associate, University of Oxford"
 url                      : https://dnjha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dnjha.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Devki Nandan Jha"
   avatar           : "Devki_Nandan_Jha.jpg"
-  bio              : "Postdoctoral Research Associate OERC, University of Oxford"
+  bio              : "Postdoctoral Research Associate, University of Oxford"
   location         : "Oxford, UK"
   employer         : [University of Oxford](https://www.ox.ac.uk/)
   pubmed           : #"https://eng.ox.ac.uk/people/devki-nandan-jha/"
