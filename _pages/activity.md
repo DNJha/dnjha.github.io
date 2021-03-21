@@ -6,14 +6,19 @@ author_profile: true
 ---
 
 * IEEE Transactions on Services Computing,
-* ACM Computing Surveys, 
+* IEEE Transactions on Cloud Computing,
+* IEEE Transactions on Sustainable Computing,
 * IEEE Transactions on Industrial Informatics, 
 * IEEE Internet of Things, 
-* IEEE Communications Magazine, 
+* IEEE Communications,
+* IEEE Networks, 
 * IEEE Wireless Communications Magazine, 
+* ACM Computing Surveys,
+* ACM Transactions on Internet of Things,
 * Future Generation Computer Systems (Elsevier), 
 * Computer Journal, 
 * Software: Practice and Experience (Wiley),
+* Concurrency and Computation: Practice and Experience (Wiley),
 * Computing (Springer), 
 * Supercomputing (Springer),
 * IET Cyber-Physical Systems: Theory and Applications
@@ -21,12 +26,14 @@ author_profile: true
 Technical Program Committee
 ======
 
+* International Conference on Mobile Computing and Ubiquitous Networking (ICMU) 2018 - 2021
 * IEEE International Conference on Fog and Edge Computing (ICFEC) 2020
-* International Conference on Mobile Computing and Ubiquitous Networking (ICMU) 2018, 2020
+* International Conference on Information Systems Security (ICISS2021)
 
 Publicity Chair
 ======
 
+* International Conference on Information Systems Security (ICISS2021) 
 * IEEE International Conference on Cloud and Big Data Computing (CBDCom2017)
 * International Workshop on Technology Convergence for Smart Cities (TeC4C 2018)
 
