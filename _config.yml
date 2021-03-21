@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Devki Nandan Jha"
   avatar           : "Devki_Nandan_Jha.jpg"
-  bio              : "Postdoctoral Reesearch Associate OERC, University of Oxford"
+  bio              : "Postdoctoral Research Associate OERC, University of Oxford"
   location         : "Oxford, UK"
-  employer         : University of Oxford
-  pubmed           : "https://eng.ox.ac.uk/people/devki-nandan-jha/"
+  employer         : [University of Oxford](https://www.ox.ac.uk/)
+  pubmed           : #"https://eng.ox.ac.uk/people/devki-nandan-jha/"
   googlescholar    : "https://scholar.google.com/citations?user=PbpGthwAAAAJ&hl=en&oi=ao"
   email            : "devki.jha@eng.ox.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Devki_Nandan_Jha"
