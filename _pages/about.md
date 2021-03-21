@@ -12,22 +12,22 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>-->
 
-* I am now a postdoctoral reserach associate under the supervision of Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/), e-Research Institute, University of Oxford and Mr. [David Blundell](https://www.linkedin.com/in/david-blundell-2b07b915/?originalSubdomain=uk), 100 Percent IT.
+* Dr. Devki Nandan Jha is currently a postdoctoral reserach associate at [Oxford e-Research Centre](https://www.oerc.ox.ac.uk/), University of Oxford under the supervision of Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/), University of Oxford and Mr. [David Blundell](https://www.linkedin.com/in/david-blundell-2b07b915/?originalSubdomain=uk), 100 Percent IT.
 
-* I submitted my Ph.D. thesis under the supervision of Prof. [Rajiv Ranjan](https://rajivranjan.net/), Prof. [Paul Watson](https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background)  from [Newcastle University, UK](https://www.ncl.ac.uk/computing/) and Dr. [Xiaoli Li](https://www.ntu.edu.sg/home/xlli/) from [I2R A* STAR, Singapore](https://www.a-star.edu.sg/i2r). My research focuses on innovative approach for the deployment of microservices in cloud-IoT environments.
+* He received his PhD in 2020 from [School of Computing, Newcastle University, UK](https://www.ncl.ac.uk/computing/) under the supervision of Prof. [Rajiv Ranjan](https://rajivranjan.net/), Prof. [Paul Watson](https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background) and Dr. [Xiaoli Li](https://www.ntu.edu.sg/home/xlli/) from (external from [I2R A* STAR, Singapore](https://www.a-star.edu.sg/i2r)). His PhD research focuses on <i>Innovative approach for the deployment of microservices in cloud-edge environments</i>.
 
-* I am broadly interested in Cloud Computing, Internet of Things and Machine Learning. My current research focuses on designing a simulator for Edge Computing environment. I am also working on developing an Orchestrator for automatic benchmarking of web-application in containerized environment.
+* His research interests include Cloud Computing, Internet of Things and Machine Learning. He was also involved in design and developement of multiple [IoT simulators](https://rajivranjan.net/iotsim/iotsim-release/). 
+
+* He is current working on Trusted Public Cloud project where his main aim to design and develop a trusted environment for user specific applications executing in public cloud environment..
 
 <!--I graduated from [Bhagalpur College of Engineering, Bhagalpur]() in 2012 and -->
-I completed my M.Tech from [Jawaharlal Nehru University](https://www.jnu.ac.in/scss) in 2015 where I was advised by Prof. [Deo Prakash Vidyarthi](https://www.jnu.ac.in/content/dpv). My dissertation is about security prioritized resource provisioning in Cloud Computing.
+* He completed his Masters of Technology (MTech) from [Jawaharlal Nehru University](https://www.jnu.ac.in/scss) in 2015 where he was advised by Prof. [Deo Prakash Vidyarthi](https://www.jnu.ac.in/content/dpv). His dissertation is about <i>Security prioritized resource provisioning in Cloud Computing</i>.
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
 Research Interests
 ======
-* I like exploring different system-specific problems.
-
-* In particular I am interested in virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, networks and anything else that catches my fancy.
+* Exploring different system-specific problems. In particular virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, security and privacy, networks and anything else that catches my fancy.
 
 
 <!--Searching for a Post-doctoral/ Research Scientist position to start from Fall 2020.

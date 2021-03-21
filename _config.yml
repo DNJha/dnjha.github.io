@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Devki Nandan Jha"
 title_separator          : "-"
 name                     : &name "Devki Nandan Jha"
-description              : &description "Post Graduate Research @Newcastle University"
+description              : &description "Postdoctoral Reesearch Associate @OERC, University of Oxford"
 url                      : https://dnjha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dnjha.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Devki Nandan Jha"
   avatar           : "Devki_Nandan_Jha.jpg"
-  bio              : "Post Graduate Research at <a href=https://www.ncl.ac.uk/>Newcastle University</a>"
-  location         : "Newcastle Upon Tyne, UK"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Postdoctoral Reesearch Associate OERC, University of Oxford"
+  location         : "Oxford, UK"
+  employer         : University of Oxford
+  pubmed           : "https://eng.ox.ac.uk/people/devki-nandan-jha/"
   googlescholar    : "https://scholar.google.com/citations?user=PbpGthwAAAAJ&hl=en&oi=ao"
-  email            : "d.n.jha2@newcastle.ac.uk"
+  email            : "devki.jha@eng.ox.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Devki_Nandan_Jha"
   uri              :
   bitbucket        :
