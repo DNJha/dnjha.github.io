@@ -9,7 +9,7 @@ author_profile: true
 
 2. Fawzy Habeeb, Khaled Alwasel, Ayman Noor, <b>Devki Nandan Jha</b>, "Dynamic Bandwidth Slicing for Time-Critical IoT Data Streams in the Edge-Cloud Continuum", <i>IEEE Transactions of Industrial Informatics</i>, 2022. (ISI Impact Factor: 10.21)
 
-3. Osama Almurshed, Omer Rana, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, et al., "A Fault-Tolerant Workflow Composition and Deployment Automation IoT Framework in a Multi-Cloud Edge Environment", <i>IEEE Network</i>, IEEE, 2022. (ISI impact factor: 10.69)
+3. Osama Almurshed, Omer Rana, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, et al., "A Fault-Tolerant Workflow Composition and Deployment Automation IoT Framework in a Multi-Cloud Edge Environment", <i>IEEE Network</i>, IEEE, 2021. (ISI impact factor: 10.69)
 
 4. <b>Devki Nandan Jha</b>, Khaled Alwasel, Areeb Alshoshan, Xianghua Huang, et al., "IoTSim-Edge: A Simulation Framework for Modeling the Behaviour of IoT and Edge Computing Environments", <i>Software: Practice and experience</i>, Wiley, vol. 50, no. 6, pp. 844-867, 2020. (ISI Impact Factor: 2.028, Core A) [PDF](https://doi.org/10.1002/spe.2787)
 
