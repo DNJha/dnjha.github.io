@@ -18,7 +18,7 @@ redirect_from:
 
 * His research interests include Cloud Computing, Internet of Things and Machine Learning. He was also involved in design and developement of multiple [IoT simulators](https://rajivranjan.net/iotsim/iotsim-release/). 
 
-* He is current working on Trusted Public Cloud project where his main aim to design and develop a trusted environment for user specific applications executing in public cloud environment..
+* He is current working on Trusted Public Cloud project where his main aim to design and develop a trusted environment for user specific applications executing in public cloud environment.
 
 <!--I graduated from [Bhagalpur College of Engineering, Bhagalpur]() in 2012 and -->
 * He completed his Masters of Technology (MTech) from [Jawaharlal Nehru University](https://www.jnu.ac.in/scss) in 2015 where he was advised by Prof. [Deo Prakash Vidyarthi](https://www.jnu.ac.in/content/dpv). His dissertation is about <i>Security prioritized resource provisioning in Cloud Computing</i>.
@@ -27,7 +27,7 @@ redirect_from:
 
 Research Interests
 ======
-* Exploring different system-specific problems. In particular virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, security and privacy, networks and anything else that catches my fancy.
+* Exploring different system-specific problems. In particular virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, security and privacy.
 
 
 <!--Searching for a Post-doctoral/ Research Scientist position to start from Fall 2020.

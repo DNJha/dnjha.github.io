@@ -14,11 +14,16 @@ author_profile: true
 * Computer Architecture and Computer Networks for B. Tech final year students at Bhagalpur College of Engineering (2012-13) (full module).
 
 
+Lead Tutor
+======
+* Machine Learning (C19) (2022-23), Department of Engineering Science, University of Oxford.
+
+
 
 Teaching Assistant/Demonstrator
 ======
 * [Cloud Computing (CSC8110)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8110) (2017-18, 2018-19, 2019-20)
-Teaching Assistant, Head Demonstrator and Marker
+Teaching Assistant, <b>Head Demonstrator</b> and Marker
 
 * [Internet of Things (CSC8112)](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8112) (2019-20)
 Teaching Assistant, Demonstrator and Marker

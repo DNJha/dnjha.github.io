@@ -5,51 +5,43 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, and David Wallom, "Trusted Platform Module Based Privacy in Public Cloud: Challenges and Future Perspective", <i>IEEE IT Professional</i>, IEEE, 2022. (ISI impact factor: 2.62) 
+1. <b>Devki Nandan Jha</b>, "A hybrid accuracy- and energy-aware human activity recognition model in IoT environment", <i>IEEE Transactions on Sustainable Computing</i>, 2022 (ISI Impact Factor 4.908). [PDF](https://ieeexplore.ieee.org/abstract/document/9900469)
 
-2. Fawzy Habeeb, Khaled Alwasel, Ayman Noor, <b>Devki Nandan Jha</b>, "Dynamic Bandwidth Slicing for Time-Critical IoT Data Streams in the Edge-Cloud Continuum", <i>IEEE Transactions of Industrial Informatics</i>, 2022. (ISI Impact Factor: 10.21)
+1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, and David Wallom, "Trusted Platform Module Based Privacy in Public Cloud: Challenges and Future Perspective", <i>IEEE IT Professional</i>, IEEE, 2022. (ISI impact factor: 2.59) [PDF](https://ora.ox.ac.uk/objects/uuid:36e86aec-d7c4-4565-a296-09d02b9caf4a/download_file?file_format=&safe_filename=Jha_et_al_2022_trusted_platform_module.pdf&type_of_work=Journal+article)
 
-3. Osama Almurshed, Omer Rana, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, et al., "A Fault-Tolerant Workflow Composition and Deployment Automation IoT Framework in a Multi-Cloud Edge Environment", <i>IEEE Network</i>, IEEE, 2022. (ISI impact factor: 10.69)
+2. Fawzy Habeeb, Khaled Alwasel, Ayman Noor, <b>Devki Nandan Jha</b>, "Dynamic Bandwidth Slicing for Time-Critical IoT Data Streams in the Edge-Cloud Continuum", <i>IEEE Transactions of Industrial Informatics</i>, 2022. (ISI Impact Factor: 11.648) [PDF](https://ieeexplore.ieee.org/abstract/document/9762563)
 
-4. <b>Devki Nandan Jha</b>, Khaled Alwasel, Areeb Alshoshan, Xianghua Huang, et al., "IoTSim-Edge: A Simulation Framework for Modeling the Behaviour of IoT and Edge Computing Environments", <i>Software: Practice and experience</i>, Wiley, vol. 50, no. 6, pp. 844-867, 2020. (ISI Impact Factor: 2.028, Core A) [PDF](https://doi.org/10.1002/spe.2787)
+3. Osama Almurshed, Omer Rana, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, et al., "A Fault-Tolerant Workflow Composition and Deployment Automation IoT Framework in a Multi-Cloud Edge Environment", <i>IEEE Network</i>, IEEE, 2022. (ISI impact factor: 10.294) [PDF](https://www.computer.org/csdl/magazine/ic/2022/04/09431696/1tB9eyBCaRy)
 
-5. Bin Qian, Jie Su, Zhenyu Wen, <b>Devki Nandan Jha</b>, et al., "Orchestrating Development Lifecycle of Machine Learning Based IoT Applications: A Survey", <i>ACM Computing Surveys</i>, vol. 53, no. 4, pp. 1-47, 2020. (ISI Impact Factor: 10.28, Core A*) [PDF](https://doi.org/10.1145/3398020)
+6. Khaled Alwasel, <b>Devki Nandan Jha</b>, Fawzy Habeeb, Omer Rana, et al., "IoTSim-Osmosis: a Framework for Modeling and Simulating Smart IoT Applications in Edge-Cloud Continuum", <i>Journal of Systems Architecture</i>, Elsevier, p.101956, 2021. (ISI Impact Factor: 5.386) [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1383762120302083)
 
-6. Khaled Alwasel, <b>Devki Nandan Jha</b>, Fawzy Habeeb, Omer Rana, et al., "IoTSim-Osmosis: a Framework for Modeling and Simulating Smart IoT Applications in Edge-Cloud Continuum", <i>Journal of Systems Architecture</i>, Elsevier, p.101956, 2020. (ISI Impact Factor: 3.77) [PDF]()
+4. <b>Devki Nandan Jha</b>, Khaled Alwasel, Areeb Alshoshan, Xianghua Huang, et al., "IoTSim-Edge: A Simulation Framework for Modeling the Behaviour of IoT and Edge Computing Environments", <i>Software: Practice and experience</i>, Wiley, vol. 50, no. 6, pp. 844-867, 2020. (ISI Impact Factor: 3.2, Core A) [PDF](https://doi.org/10.1002/spe.2787)
 
-7. Khaled Alwasel, <b>Devki Nandan Jha</b>, Eduardo Hernandez, Deepak Puthal, et al., "IoTSim-SDWAN: A simulation framework for interconnecting distributed datacenters over Software-Defined Wide Area Network (SD-WAN)", <i>Journal of Parallel and Distributed Computing</i>, vol 143, pp.17-35, 2020. (ERA A, ISI Impact Factor: 3.734) [PDF](https://doi.org/10.1016/j.jpdc.2020.04.006)
+5. Bin Qian, Jie Su, Zhenyu Wen, <b>Devki Nandan Jha</b>, et al., "Orchestrating Development Lifecycle of Machine Learning Based IoT Applications: A Survey", <i>ACM Computing Surveys</i>, vol. 53, no. 4, pp. 1-47, 2020. (ISI Impact Factor: 14.324, Core A*) [PDF](https://doi.org/10.1145/3398020)
 
-8. <b>Devki Nandan Jha</b>, Peter Michalak, Rajiv Ranjan, Zhenyu Wen & Paul Watson, "Multi-objective Deployment of Data Analysis Operations in Heterogeneous IoT Infrastructure", <i>IEEE Transactions of Industrial Informatics</i>, vol. 16, no. 11, pp. 7014-7024, 2019. (ISI Impact Factor: 10.21) [PDF](https://doi.org/10.1109/TII.2019.2961676) 
+7. Khaled Alwasel, <b>Devki Nandan Jha</b>, Eduardo Hernandez, Deepak Puthal, et al., "IoTSim-SDWAN: A simulation framework for interconnecting distributed datacenters over Software-Defined Wide Area Network (SD-WAN)", <i>Journal of Parallel and Distributed Computing</i>, vol 143, pp.17-35, 2020. (ERA A, ISI Impact Factor: 4.542) [PDF](https://doi.org/10.1016/j.jpdc.2020.04.006)
 
-9. Massimo Villari, Maria Fazio, Schahram Dustdar, Omer Rana, <b>Devki Nandan Jha</b>, & Rajiv Ranjan. "Osmosis: The osmotic computing platform for microelements in the cloud, edge, and internet of things", <i>Computer</i>, IEEE Computer Society, vol. 52, no. 8, pp. 14-26, 2019. (ERA B, ISI impact factor 2.683) [PDF](https://doi.org/10.1109/MC.2018.2888767)
+8. <b>Devki Nandan Jha</b>, Peter Michalak, Rajiv Ranjan, Zhenyu Wen & Paul Watson, "Multi-objective Deployment of Data Analysis Operations in Heterogeneous IoT Infrastructure", <i>IEEE Transactions of Industrial Informatics</i>, vol. 16, no. 11, pp. 7014-7024, 2019. (ISI Impact Factor: 11.648) [PDF](https://doi.org/10.1109/TII.2019.2961676) 
 
-10. Ayman Noor, Karan Mitra, Ellis Solaiman, <b>Devki Nandan Jha</b>, et al., "Cyber-Physical Application Monitoring Across Multiple Clouds", <i>Computers & Electrical Engineering</i>, Elsevier, vol. 77, pp. 314-324, 2019. (ISI impact factor: 3.818) [PDF](https://doi.org/10.1016/j.compeleceng.2019.06.007) 
+9. Massimo Villari, Maria Fazio, Schahram Dustdar, Omer Rana, <b>Devki Nandan Jha</b>, & Rajiv Ranjan. "Osmosis: The osmotic computing platform for microelements in the cloud, edge, and internet of things", <i>Computer</i>, IEEE Computer Society, vol. 52, no. 8, pp. 14-26, 2019. (ERA B, ISI impact factor 2.256) [PDF](https://doi.org/10.1109/MC.2018.2888767)
 
-11. <b>Devki Nandan Jha</b>, Saurabh Garg, Prem Prakash Jayaraman, Rajkumar Buyya, et al., "A Study on the Evaluation of HPC Microservices in Containerized Environment", <i>Concurrency and Computation: Practice and Experience</i>, e5323, Wiley, 2019. (ISI Impact Factor: 1.536, Core A) [PDF](https://doi.org/10.1002/cpe.5323) 
+10. Ayman Noor, Karan Mitra, Ellis Solaiman, <b>Devki Nandan Jha</b>, et al., "Cyber-Physical Application Monitoring Across Multiple Clouds", <i>Computers & Electrical Engineering</i>, Elsevier, vol. 77, pp. 314-324, 2019. (ISI impact factor: 4.152) [PDF](https://doi.org/10.1016/j.compeleceng.2019.06.007) 
+
+11. <b>Devki Nandan Jha</b>, Saurabh Garg, Prem Prakash Jayaraman, Rajkumar Buyya, et al., "A Study on the Evaluation of HPC Microservices in Containerized Environment", <i>Concurrency and Computation: Practice and Experience</i>, e5323, Wiley, 2019. (ISI Impact Factor: 1.831, Core A) [PDF](https://doi.org/10.1002/cpe.5323) 
 
 12. <b>Devki Nandan Jha</b>, and Deo Prakash Vidyarthi, "A Hybrid Heuristic for QoS Aware Matching of User's Job and Virtual Machines in Cloud Environment", <i>Journal of Information Technology Research</i> (JITR), vol. 11, no. 2, pp. 88-109, 2018. (impact factor: 0.53) [PDF]() 
 
 13. Gabor Kecskemeti, Giuliano Casale, <b>Devki Nandan Jha</b>, Justin Lyon, & Rajiv Ranjan, "Modelling and Simulation Challenges in Internet of Things", <i>IEEE Cloud Computing</i>, vol. 4, no. 1, pp. 62-69, 2017. (ISI impact factor: 4.39) [PDF](https://doi.org/10.1109/MCC.2017.18)
 
 
-<!--
-Journal Papers: Under Review
-======
-
-1. <b>Devki Nandan Jha</b>, Yinhao Li, Zhenyu Wen, Graham Morgan, et al., "GeoDeploy: A User-Centric Cost-Efficient Geo-Distributed Web-Applications Deployment via Automatic Benchmarking", <i>IEEE Transactions on Computers</i>, IEEE. (ISI impact factor:2.71)
-
-
-
-
-3. <b>Devki Nandan Jha</b>, Zhenghua Chen, Shudong Liu, Min Wu, et al., "Accuracy and Energy Aware Activity Recognition in IoT Environment", <i>IEEE Transactions on Sustainable Computing</i>, IEEE. 
-
--->
 
 
 Conference Papers
 ======
 
-1. <b>Devki Nandan Jha</b>, Graham Lenton, James Asker, David Blundell, and David Wallom,, "Holistic Runtime Performance and Security-aware Monitoring in Public Cloud Environment." In Proceedings of the <i>IEEE International Conference on Cloud, Cluster and Grid Computing (CCGrid)</i>, pp. 1-8. IEEE, 2022.
+1. <b>Devki Nandan Jha</b>, Graham Lenton, James Asker, David Blundell, and David Wallom, “TrustedCloud: a framework for the run-time trust state analysis of a virtual machine in cloud environment”, In Proceedings of the <i> ACM/IFIP 23rd International Middleware Conference</i>, ACM, 2022. [PDF](https://dl.acm.org/doi/abs/10.1145/3565386.3565492)
+
+1. <b>Devki Nandan Jha</b>, Graham Lenton, James Asker, David Blundell, and David Wallom, "Holistic Runtime Performance and Security-aware Monitoring in Public Cloud Environment." In Proceedings of the <i>IEEE International Conference on Cloud, Cluster and Grid Computing (CCGrid)</i>, pp. 1-8. IEEE, 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9826090)
 
 2. Yinhao Li, <b>Devki Nandan Jha</b>, Gagangeet Singh Aujla, Graham Morgan, et al., "IoTWC: Analytic Hierarchy Process Based Internet of Things Workflow Composition System." In Proceedings of the <i>IEEE International Conference on Cloud Engineering (IC2E)</i>, pp. 1-10. IEEE, 2020. [PDF](https://doi.org/10.1109/IC2E48712.2020.00007)
 
