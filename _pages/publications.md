@@ -9,7 +9,11 @@ author_profile: true
 
 1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, and David Wallom, "Trusted Platform Module Based Privacy in Public Cloud: Challenges and Future Perspective", <i>IEEE IT Professional</i>, IEEE, 2022. (ISI impact factor: 2.59) [PDF](https://ora.ox.ac.uk/objects/uuid:36e86aec-d7c4-4565-a296-09d02b9caf4a/download_file?file_format=&safe_filename=Jha_et_al_2022_trusted_platform_module.pdf&type_of_work=Journal+article)
 
+<<<<<<< HEAD
 2. Fawzy Habeeb, Khaled Alwasel, Ayman Noor, <b>Devki Nandan Jha</b>, "Dynamic Bandwidth Slicing for Time-Critical IoT Data Streams in the Edge-Cloud Continuum", <i>IEEE Transactions of Industrial Informatics</i>, 2022. (ISI Impact Factor: 11.648) [PDF](https://ieeexplore.ieee.org/abstract/document/9762563)
+=======
+3. Osama Almurshed, Omer Rana, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, et al., "A Fault-Tolerant Workflow Composition and Deployment Automation IoT Framework in a Multi-Cloud Edge Environment", <i>IEEE Network</i>, IEEE, 2021. (ISI impact factor: 10.69)
+>>>>>>> fd3abf9bd16c61dec696a82ebd3e96b20fc99daf
 
 3. Osama Almurshed, Omer Rana, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, et al., "A Fault-Tolerant Workflow Composition and Deployment Automation IoT Framework in a Multi-Cloud Edge Environment", <i>IEEE Network</i>, IEEE, 2022. (ISI impact factor: 10.294) [PDF](https://www.computer.org/csdl/magazine/ic/2022/04/09431696/1tB9eyBCaRy)
 
