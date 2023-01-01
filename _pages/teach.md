@@ -11,7 +11,7 @@ author_profile: true
 
 * Cloud Computing (CSC8110) and Internet of Things (CSC8112) for Master student at Newcastle University (2018-19, 2019-20). 
 
-* Computer Architecture and Computer Networks for B. Tech final year students at Bhagalpur College of Engineering (2012-13) (full module).
+* Computer Architecture, Computer Networks and Theory of Computation (Automata Theory) for B. Tech final year students at Bhagalpur College of Engineering (2012-13) (full module).
 
 
 Lead Tutor

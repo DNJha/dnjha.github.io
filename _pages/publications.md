@@ -29,7 +29,7 @@ author_profile: true
 
 11. <b>Devki Nandan Jha</b>, Saurabh Garg, Prem Prakash Jayaraman, Rajkumar Buyya, et al., "A Study on the Evaluation of HPC Microservices in Containerized Environment", <i>Concurrency and Computation: Practice and Experience</i>, e5323, Wiley, 2019. (ISI Impact Factor: 1.831, Core A) [PDF](https://doi.org/10.1002/cpe.5323) 
 
-12. <b>Devki Nandan Jha</b>, and Deo Prakash Vidyarthi, "A Hybrid Heuristic for QoS Aware Matching of User's Job and Virtual Machines in Cloud Environment", <i>Journal of Information Technology Research</i> (JITR), vol. 11, no. 2, pp. 88-109, 2018. (impact factor: 0.53) [PDF]() 
+12. <b>Devki Nandan Jha</b>, and Deo Prakash Vidyarthi, "A Hybrid Heuristic for QoS Aware Matching of User's Job and Virtual Machines in Cloud Environment", <i>Journal of Information Technology Research</i> (JITR), vol. 11, no. 2, pp. 88-109, 2018. (ISI Impact factor: 0.53) [PDF]() 
 
 13. Gabor Kecskemeti, Giuliano Casale, <b>Devki Nandan Jha</b>, Justin Lyon, & Rajiv Ranjan, "Modelling and Simulation Challenges in Internet of Things", <i>IEEE Cloud Computing</i>, vol. 4, no. 1, pp. 62-69, 2017. (ISI impact factor: 4.39) [PDF](https://doi.org/10.1109/MCC.2017.18)
 
