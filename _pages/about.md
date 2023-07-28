@@ -32,7 +32,7 @@ The main theme of his research revolves around automatic, zero-trust and intelli
 * Kernel-level monitoring for cloud and IoT environment
 * Zero-trust platform for smart IoT applications using TPM and SGX 
 * High accuracy and energy-efficient IoT application execution on mobile devices
-* Simulation (design and devlopment)
+* Simulation (design and development)
 
 
 Open Positions
