@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "External Reviewer"
+title: "Associate Editor"
 permalink: /activity/
 author_profile: true
 ---
+
+Springer Nature Computer Science
+
+
+Technical Program Committee
+======
 
 * IEEE Transactions on Services Computing,
 * IEEE Transactions on Cloud Computing,
@@ -26,9 +32,12 @@ author_profile: true
 Technical Program Committee
 ======
 
+* IEEE International Conference on Cloud Computing (CLOUD) 2022 - 
+* IEEE International Conference on Electrical, Electronics, Communication and Computers (ELEXCOM) 2023 - 
+* International Conference on Information Systems Security (ICISS) 2021 - 
 * International Conference on Mobile Computing and Ubiquitous Networking (ICMU) 2018 - 2021
 * IEEE International Conference on Fog and Edge Computing (ICFEC) 2020
-* International Conference on Information Systems Security (ICISS2021)
+
 
 Publicity Chair
 ======

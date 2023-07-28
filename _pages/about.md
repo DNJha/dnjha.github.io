@@ -12,13 +12,14 @@ redirect_from:
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>-->
 
-* Dr. Devki Nandan Jha is currently a postdoctoral reserach associate at [Oxford e-Research Centre](https://www.oerc.ox.ac.uk/), University of Oxford under the supervision of Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/), University of Oxford and Mr. [David Blundell](https://www.linkedin.com/in/david-blundell-2b07b915/?originalSubdomain=uk), 100 Percent IT.
+* Dr. Devki Nandan Jha is a Lecturer in Computing (Assistant Professor) for Teaching & Research at [School of Computing, Newcastle University, UK](https://www.ncl.ac.uk/computing/).
 
-* He received his PhD in 2020 from [School of Computing, Newcastle University, UK](https://www.ncl.ac.uk/computing/) under the supervision of Prof. [Rajiv Ranjan](https://rajivranjan.net/), Prof. [Paul Watson](https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background) and Dr. [Xiaoli Li](https://www.ntu.edu.sg/home/xlli/) (external from [I2R A* STAR, Singapore](https://www.a-star.edu.sg/i2r)). His PhD research focuses on <i>Innovative approach for the deployment of microservices in cloud-edge environments</i>.
 
-* His research interests include Cloud Computing, Internet of Things and Machine Learning. He was also involved in design and developement of multiple [IoT simulators](https://rajivranjan.net/iotsim/iotsim-release/). 
+* He was a postdoctoral reserach associate at [Oxford e-Research Centre](https://www.oerc.ox.ac.uk/), University of Oxford under the supervision of Prof. [David Wallom](https://eng.ox.ac.uk/people/david-wallom/), University of Oxford and Mr. [David Blundell](https://www.linkedin.com/in/david-blundell-2b07b915/?originalSubdomain=uk), [CyberHive](https://www.cyberhive.com/). He worked on Trusted Public Cloud project where his main aim to design and develop a trusted environment for user specific applications executing in public cloud environment using Trusted Platform Module (TPM) and Software Guard Extension (SGX).
 
-* He is current working on Trusted Public Cloud project where his main aim to design and develop a trusted environment for user specific applications executing in public cloud environment.
+* He received his PhD in 2021 from [School of Computing, Newcastle University, UK](https://www.ncl.ac.uk/computing/) under the supervision of Prof. [Rajiv Ranjan](https://rajivranjan.net/), Prof. [Paul Watson](https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background) and Dr. [Xiaoli Li](https://www.ntu.edu.sg/home/xlli/) (external from [I2R A* STAR, Singapore](https://www.a-star.edu.sg/i2r)). His PhD research focuses on <i>Innovative approach for the deployment of microservices in cloud-edge environments</i>.
+
+* His research interests include Cloud Computing, Internet of Things, Trust & Security and Machine Learning. He was also involved in design and developement of multiple [IoT simulators](https://rajivranjan.net/iotsim/iotsim-release/). 
 
 <!--I graduated from [Bhagalpur College of Engineering, Bhagalpur]() in 2012 and -->
 * He completed his Masters of Technology (MTech) from [Jawaharlal Nehru University](https://www.jnu.ac.in/scss) in 2015 where he was advised by Prof. [Deo Prakash Vidyarthi](https://www.jnu.ac.in/content/dpv). His dissertation is about <i>Security prioritized resource provisioning in Cloud Computing</i>.
@@ -27,7 +28,16 @@ redirect_from:
 
 Research Interests
 ======
-* Exploring different system-specific problems. In particular virtualization, Cloud platforms, IoT, optimization techniques, simulation, machine learning, security and privacy.
+The main theme of his research revolves around automatic, zero-trust and intelligent Cloud and IoT applications (Edge-Cloud systems, healthcare systems, transportation systems). In particular:
+* Kernel-level monitoring for cloud and IoT environment
+* Zero-trust platform for smart IoT applications using TPM and SGX 
+* High accuracy and energy-efficient IoT application execution on mobile devices
+* Simulation (design and devlopment)
+
+
+Open Positions
+======
+* Currently open to self-funded candidates.
 
 
 <!--Searching for a Post-doctoral/ Research Scientist position to start from Fall 2020.
