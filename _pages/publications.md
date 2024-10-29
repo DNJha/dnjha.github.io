@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, Martin Higgins and David Wallom, "A run-time framework for ensuring zero-trust state of client’s machines in cloud environment", <i>IEEE Transactions on Cloud Computing</i> (minor revision). (SCI impact factor: 5.3) [PDF](../files/TCC_paperR1.pdf)
+
 1. <b>Devki Nandan Jha</b>, Yinhao Li, Zhenyu Wen, et al., "GeoDeploy: Geo-distributed application deployment using benchmarking" , <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 35, no. 12, pp. 2361-2374, 2024 (SCI Impact Factor 5.6). [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10697467)
 
 2. Maria Drolence Mwanje, Omprakash Kaiwartya, Sushil Kumar, <b>Devki Nandan Jha</b>, et al., "Cyber security analysis of connected vehicles", <i>IET Intelligent Transport Systems</i>, vol. 18, pp. 1175-1195, 2024 (SCI ImpactFactor 2.3). [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12504)
