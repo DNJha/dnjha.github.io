@@ -93,6 +93,8 @@ Conference Papers
 Book Chapters
 ======
 
+1. Sultan Altarrazi, <b>Devki Nandan Jha</b>, Bo Wei, et al., "Big Data Processing in the IoT-Edge-Cloud Continuum", <i>Springer Handbook of Data Engineering</i>, 2025. [PDF]()
+
 1. <b>Devki Nandan Jha</b>, Yinhao Li, Prem Prakash Jayaraman, Saurabh Garg, et al., "Challenges in Deployment and Configuration Management in Cyber Physical System", <i>Handbook of Integration of Cloud Computing, Cyber Physical Systems and Internet of Things</i>, pp. 215-235. Springer, Cham, 2020. [PDF](https://doi.org/10.1007/978-3-030-43795-4_9)
 
 
