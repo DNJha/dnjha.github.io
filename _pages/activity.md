@@ -15,6 +15,8 @@ Technical Program Committee
 * IEEE Transactions on Cloud Computing,
 * IEEE Transactions on Sustainable Computing,
 * IEEE Transactions on Industrial Informatics, 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence,
+* IEEE Transactions on Network and Service Management,
 * IEEE Internet of Things, 
 * IEEE Communications,
 * IEEE Networks, 
@@ -28,6 +30,12 @@ Technical Program Committee
 * Computing (Springer), 
 * Supercomputing (Springer),
 * IET Cyber-Physical Systems: Theory and Applications
+
+Program Chair
+=====
+* [IEEE Conference on JointCloud Computing (JCC) 2025](https://conf.researchr.org/track/cisose-2025/jcc-2025)
+* [International workshop on Next-Gen Middleware for MLOps in Distributed Systems (MIND) 2025](https://mindmlops.github.io/) in conjunction with the [26th ACM/IFIP International Middleware Conference 2025](https://middleware-conf.github.io/2025/)
+* [Workshop on Trust and Security in Electric and Autonomous Vehicles (EAVSec)](https://edgeaihub.co.uk/events/workshop-on-trust-and-security-in-electric-and-autonomous-vehicles-eavsec/) in conjunction with (25th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)](https://site.uit.no/ccgrid2025/). 
 
 Technical Program Committee
 ======

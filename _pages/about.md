@@ -30,7 +30,7 @@ Research Interests
 ======
 The main theme of his research revolves around automatic, zero-trust and intelligent Cloud and IoT applications (Edge-Cloud systems, healthcare systems, transportation systems). In particular:
 * Zero-trust platform for smart IoT applications using hardware-software co-design (Smart Home/Building, Autonomous Vehicles, Smart Healthcare)
-* Secured and optimsed MLOps/AI agents execution in IoT-edge-cloud continuum
+* Secure and optimsed AI execution in IoT-edge-cloud continuum
 * Simulation (design and development)
 
 
