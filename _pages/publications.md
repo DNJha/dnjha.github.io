@@ -4,8 +4,13 @@ title: "Journal Papers Published"
 permalink: /publications/
 author_profile: true
 ---
+1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, Martin Higgins and David Wallom, "A run-time framework for ensuring zero-trust state of client’s machines in cloud environment", <i>IEEE Transactions on Cloud Computing</i>, vol. 13, no. 1, pp. 61-74, 2025 (SCI impact factor: 5.3). [PDF](../files/TCC_paperR1.pdf)
 
-1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, Martin Higgins and David Wallom, "A run-time framework for ensuring zero-trust state of client’s machines in cloud environment", <i>IEEE Transactions on Cloud Computing</i> (minor revision). (SCI impact factor: 5.3) [PDF](../files/TCC_paperR1.pdf)
+1. Xinyuan Liu, Yinhao Li, Rajiv Ranjan, and <b>Devki Nandan Jha</b>, "Pluggable AI-based real-time stragglers detection framework in Hadoop", <i>High-Confidence Computing</i>, 100341, 2025 (SCI Impact Factor 3.0). [PDF](https://www.sciencedirect.com/science/article/pii/S2667295225000455)
+
+1. Amanjot Kaur, Nima Valizadeh, <b>Devki Nandan Jha</b>, Tomasz Szydlo, et al., "Cybersecurity challenges in the EV charging ecosystem", <i>ACM Computing Surveys</i>, (2025) (SCI impact factor: 23.8, Core A*). [PDF](https://dl.acm.org/doi/abs/10.1145/3735662)
+
+1. Safa Hamdare, David J. Brown, <b>Devki Nandan Jha</b>, Mohammad Aljaidi, Yue Cao, et al., "Cyber defense in OCPP for EV charging security risks", <i>International Journal of Information Security</i>, vol. 24, no. 3, p.134, 2025 (SCI Impact Factor 3.2). [PDF](https://link.springer.com/article/10.1007/s10207-025-01055-7)
 
 1. <b>Devki Nandan Jha</b>, Yinhao Li, Zhenyu Wen, et al., "GeoDeploy: Geo-distributed application deployment using benchmarking" , <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 35, no. 12, pp. 2361-2374, 2024 (SCI Impact Factor 5.6). [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10697467)
 
@@ -45,6 +50,20 @@ author_profile: true
 Conference Papers
 ======
 
+1. Xinyuan Liu, Mehul Sankhe, Ronil Rodrigues, Tomasz Szydlo, and Rajiv Ranjan, <b>Devki Nandan Jha</b>, Benchmarking Confidential Computing: Application Performance Comparison of TDX v/s SEV-SNP, In Proceedings of the <i> 2025 IEEE International Conference on High Performance Computing and Communications (HPCC)</i>, 2025. [PDF]()
+
+1. Sultan Menwer Altarrazi, <b>Devki Nandan Jha</b>, Tomasz Szydlo, and Rajiv Ranjan, "Data Quality Detector: Automating Data Quality Detection in Smart City Environment", In Proceedings of the <i>2025 IEEE Symposium on Computers and Communication (ISCC)</i>, 2025. [PDF]()
+
+1. Hisham Salamathullah, <b>Devki Nandan Jha</b>, Rajiv Ranjan, and Tomasz Szydlo, "SWITCHER: Adaptive Machine Learning Model Serving for Internet of Things Devices", In Proceedings of the <i>2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW)</i>, pp. 26-33, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11044746)
+
+1. Sultan Altarrazi, Tomasz Szydlo, <b>Devki Jha</b>, and Rajiv Ranjan. "Automating Data Quality Monitoring for Environmental Air Quality System." In Proceedings of the <i>40th ACM/SIGAPP Symposium on Applied Computing</i>, pp. 1612-1616. 2025. [PDF](https://dl.acm.org/doi/pdf/10.1145/3672608.3707985)
+
+1. Xinyuan Liu, <b>Devki Nandan Jha</b>, Yinhao Li, Mutaz Barika, et al., "AUTOMATE: Automatic anomaly detection and root cause analysis framework for hadoop." In Proceedings of the <i>2024 International Conference on Meta Computing (ICMC)</i>, pp. 213-222. IEEE, 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11062776)
+
+1. Ahmad A Alsharidah, <b>Devki Nandan Jha</b>, Bo Wei, Ellis Solaiman, and Rajiv Ranjan, "SecureFed: Blockchain-Based Defence for Data Poisoning Attack in Federated Learning", In Proceedings of the <i>2024 IEEE/ACM 17th International Conference on Utility and Cloud Computing (UCC)</i>, 2024, pp. 417-422. [PDF](https://ieeexplore.ieee.org/abstract/document/10971856)
+
+1. Joao Tadeu Pereira Gollnick, Rajiv Ranjan, and <b>Devki Nandan Jha</b> "Defid: Detecting and Filtering Distributed Denial of Service Attack in Edge Computing Environment." In Proceedings of the <i>2024 International Conference on Artificial Intelligence of Things and Systems (AIoTSys)</i>, pp. 1-6. IEEE, 2024. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10780564)
+
 1. Travis Higgins, <b>Devki Nandan Jha</b>, and Rajiv Ranjan, "Swarm Storm: An Automated Chaos Tool for Docker Swarm Applications", In Proceedings of the <i>33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC)</i>, 2024. (Core A) [PDF](https://dl.acm.org/doi/pdf/10.1145/3625549.3658827)
 
 2.	Martin Higgins, <b>Devki Jha</b>, and David Wallom, "Spatial-Temporal Anomaly Detection for Sensor Attacks in Autonomous Vehicles", In Proceedings of the <i>2023 IEEE Smart World Congress (SWC)</i>, pp. 783-788. IEEE, 2023. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10448701)
@@ -75,6 +94,8 @@ Book Chapters
 ======
 
 1. <b>Devki Nandan Jha</b>, Yinhao Li, Prem Prakash Jayaraman, Saurabh Garg, et al., "Challenges in Deployment and Configuration Management in Cyber Physical System", <i>Handbook of Integration of Cloud Computing, Cyber Physical Systems and Internet of Things</i>, pp. 215-235. Springer, Cham, 2020. [PDF](https://doi.org/10.1007/978-3-030-43795-4_9)
+
+
 
 Newsletters
 ======
