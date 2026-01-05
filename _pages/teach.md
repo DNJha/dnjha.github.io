@@ -53,11 +53,21 @@ Student Supervision
 
 PhD Supervision
 ------
+* Shubh Anand
+
+* Sayed Mansoor Rahimy
+
+* Hawker Hama
+
+* Abdulrahman Almijlad
+
 * Ruitao Xue
 
-* Ahmad Alsaridah
+* Ahmad Alsaridah (Completed)
 
 * Maria Drolence Mwanje (External, Nottingham Trent University (NTU))
+
+* Rahma Hammedi (External, Nottingham Trent University (NTU))
 
 <!-- Masters Student Supervision (Newcastle University)
 ------

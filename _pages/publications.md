@@ -4,7 +4,11 @@ title: "Journal Papers Published"
 permalink: /publications/
 author_profile: true
 ---
+1. Ahmad A. Alsharidah, <b>Devki Nandan Jha</b>, Ellis Solaiman, Bo Wei, Gagangeet Singh Aujla, Rajiv Ranjan, "RewardChain: A Blockchain-Based Incentive Mechanism for Federated Learning in Consumer-Centric Internet of Medical Things", <i>IEEE Transactions on Consumer Electronics</i>, vol. 71, no. 4, pp. 11327-11338, Nov. 2025. [PDF](https://ieeexplore.ieee.org/abstract/document/11218859).
+
 1. <b>Devki Nadan Jha</b>, Graham Lenton, James Asker, David Blundell, Martin Higgins and David Wallom, "A run-time framework for ensuring zero-trust state of client’s machines in cloud environment", <i>IEEE Transactions on Cloud Computing</i>, vol. 13, no. 1, pp. 61-74, 2025 (SCI impact factor: 5.3). [PDF](../files/TCC_paperR1.pdf)
+
+1. Maria Drolence Mwanje, Omprakash Kaiwartya, <b>Devki Nandan Jha</b>, Ahmad M. Khasawneh, Ali Sadiq and Yue Cao, "Misbehaviour Prediction in CAV Network using Aggregated Trust Analysis", <i>International Journal of Intelligent Transportation Systems Research</i>, vol. 23, pp. 1554–1570, 2025. [PDF](https://link.springer.com/content/pdf/10.1007/s13177-025-00528-2.pdf)
 
 1. Xinyuan Liu, Yinhao Li, Rajiv Ranjan, and <b>Devki Nandan Jha</b>, "Pluggable AI-based real-time stragglers detection framework in Hadoop", <i>High-Confidence Computing</i>, 100341, 2025 (SCI Impact Factor 3.0). [PDF](https://www.sciencedirect.com/science/article/pii/S2667295225000455)
 
@@ -49,8 +53,13 @@ author_profile: true
 
 Conference Papers
 ======
+1. Tianpu Li, Tomasz Szydlo, Rajiv Ranjan, <b>Devki Nandan Jha</b>, A Behavioural Fingerprinting-Based Attack Detection Framework for Smart Home Devices, In Proceedings of the <i>31st International Conference on Parallel and Distributed Systems (ICPADS 2025)</i>, pp. 1-8, 2025 [PDF]().
 
-1. Xinyuan Liu, Mehul Sankhe, Ronil Rodrigues, Tomasz Szydlo, and Rajiv Ranjan, <b>Devki Nandan Jha</b>, Benchmarking Confidential Computing: Application Performance Comparison of TDX v/s SEV-SNP, In Proceedings of the <i> 2025 IEEE International Conference on High Performance Computing and Communications (HPCC)</i>, 2025. [PDF]()
+1. Xinyuan Liu, Wenhao Bao, Yumin Zhang, Yinhao Li, Rajiv Ranjan, <b>Devki Nandan Jha</b>, LINEADAPTER: Parameter-Efficient Fine-Tuning for Log Anomaly Detection and Root Cause Analysis, In Proceedings of the <i>31st International Conference on Parallel and Distributed Systems (ICPADS 2025)</i>, pp. 1-8, 2025 [PDF]().
+
+1. Shubh Anand, Likhitha Kandregula, Tomasz Szydlo, Rajiv Ranjan, <b>Devki Nandan Jha</b>, A Hybrid Monitoring Framework for Anomaly Detection in Smart Home IoT Devices, In Proceedings of the <i>18th IEEE/ACM International Conference on Utility and Cloud Computing (UCC)</i>, pp. 1-6. 2025. [PDF](https://dl.acm.org/doi/full/10.1145/3773274.3774927)
+
+1. Xinyuan Liu, Mehul Sankhe, Ronil Rodrigues, Tomasz Szydlo, and Rajiv Ranjan, <b>Devki Nandan Jha</b>, Benchmarking Confidential Computing: Application Performance Comparison of TDX v/s SEV-SNP, In Proceedings of the <i> 2025 IEEE International Conference on High Performance Computing and Communications (HPCC)</i>, Exeter, United Kingdom, 2025, pp. 178-185. [PDF](https://ieeexplore.ieee.org/document/11207298)
 
 1. Sultan Menwer Altarrazi, <b>Devki Nandan Jha</b>, Tomasz Szydlo, and Rajiv Ranjan, "Data Quality Detector: Automating Data Quality Detection in Smart City Environment", In Proceedings of the <i>2025 IEEE Symposium on Computers and Communication (ISCC)</i>, 2025. [PDF]()
 

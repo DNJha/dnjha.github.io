@@ -7,6 +7,12 @@ author_profile: true
   - /resume-->
 ---
 
+* Received the <b>IEEE TCSC Award for Excellence in Scalable Computing (Early Career Researchers) 2025 </b> for contributions to scalable cloud-edge-IoT computing.
+
+* Received the <b>CyberVehiCare Rising Star Award 2025 </b> in recognition of impactful contributions and leadership in vehicular cybersecurity research. 
+
+* Awarded the <b>Fellowship of the Higher Education Academy (FHEA) </b> Advance HE, UK in 2025. 
+
 * Awarded <b>Newcastle Singapore Scholarship</b> in July 2016 for pursuing PhD at Newcastle University, UK. Also awarded <b>Fee Waiver Scholarship</b> from Newcastle University.
 
 * Selected for Student volunteer at <i>The Web Conference (WWW) 2019</i> held in San Francisco, USA.
